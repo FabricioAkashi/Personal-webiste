@@ -21,13 +21,13 @@ body {
 .name {
     color: #d4d4d4;
     font-family: "Noto Serif", serif;
-    font-size: 4rem;
+    font-size:55px;
 }
 
 .lead {
     color: #d4d4d4;
     font-family: "Roboto", sans-serif;
-    font-size: 2rem;
+    font-size: 26px;
 }
 
 .skill {
@@ -42,5 +42,20 @@ body {
 }
 
 .skilltit {
-    color: #d4d4d4;
+    color: "#d4d4d4";
+    font-size: 20px;
 }
+
+.img1 {
+    height: 30rem;
+    width: 40rem;
+}
+
+.nav-item {
+    font-family: "Roboto", sans-serif;
+}
+
+.footertxt {
+    color: #c0bfbf;
+}
+
